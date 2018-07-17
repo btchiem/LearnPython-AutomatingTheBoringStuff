@@ -5,3 +5,5 @@ git add (filenames)
 git commit -m "commit message" filename
 git push -u origin master
 git pull
+
+test
