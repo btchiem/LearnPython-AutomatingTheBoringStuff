@@ -1,0 +1,7 @@
+git config --global user.name "yourusername"
+git config --global user.email "youremail@domain.com"
+git clone (url)
+git add (filenames)
+git commit -m "commit message" filename
+git push -u origin master
+git pull
